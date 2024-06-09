@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Atul Patil</h1>
+<h3 align="center">Let's Generate Infinite Bond Between Us ♾️</h3>
+<img align="left" alt="atulpatil14" width="30" src="https://i.gifer.com/origin/d5/d51bd118fe85a5e16b2d3c2adac6b4cc_w200.gif" >
 
-<h2> -------Let's Generate Infinite Bond Between Us <img align="center" alt="atulpatil14" width="30" src="https://i.gifer.com/origin/d5/d51bd118fe85a5e16b2d3c2adac6b4cc_w200.gif"  > -------
-</h2>
 <img align="right" alt="atulpatil14" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulpatil14&label=Profile%20views&color=0e75b6&style=flat" alt="atulpatil14" /> </p>
 
