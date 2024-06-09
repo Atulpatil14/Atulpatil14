@@ -17,9 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/atulpatil1445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulpatil1445" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul patil" height="30" width="40" /></a>
-<a href="https://fb.com/atul patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atul patil" height="30" width="40" /></a>
-<a href="https://instagram.com/atulap_1445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atulap_1445" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/atulpatil2147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atulpatil2147" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mysterio0145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mysterio0145" height="30" width="40" /></a>
 </p>
 
